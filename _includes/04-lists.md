@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Ders x
+* Açık Kaynak Kod
+  * GitHub
+  * Docker
